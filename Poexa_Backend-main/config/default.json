@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://AliceNdeh:alice123@cluster0.hrfex.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secret":"JesusChristislord"
+}
